@@ -1,12 +1,8 @@
 # devops 13 website
-![image](images/nevis.jpg)
+This is the official site
 
-<p align="center">
-<img src="images/nevis.jpg" width="400"/>
-</p>
-<p align="center">
-<b>this is an image for muy site</b>
-</p>
+![image](./images/nevis.jpg)
+
 
 
 
@@ -17,12 +13,20 @@
 - paragraph
 
 ## how to work with the website
-1. clone respository
+1. clone respo
+'''
+git clone git@github.com:jeff435/my-first-website.git
 '''
 
-git clone'''
 
-git clone https://github.com/jeff435/devops13.git
+2. change directory to the project directory
+'''
+cd my-first-web
+,,,
+
+3. open index.html on yoour browser
+
+
 
 
 
